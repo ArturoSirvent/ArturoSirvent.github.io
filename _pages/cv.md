@@ -1,39 +1,42 @@
 ---
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 ---
 
-My CV can be downloaded <a href="/cv/cv_esquematico_arturosirvent.pdf" download>here</a>.
+My Resume can be downloaded <a href="/cv/English_resume_CV_18jul.pdf" download>here</a>.
 
 
 {% include base_path %}
 
 Education
 ======
-* Degree in Physics (2016 - now) in University of Granada (Spain).
+* Master in Data Science at University of Valencia. (2021-now)
+* Degree in Physics (2016 - 2021) in University of Granada (Spain).
   + Erasmus+ in Wuppertal (Germany) (2018-2019).
 * Course: Godot Game Engine (2018).
 * Course: C++ advanced programming methods (2018).
 * Course: Scientific programming in Python (2017).
 * Course: Energy and Matter (2017).
-* Bachiller of Science (2014-2016) in IES Bahia de Babel (Alicante, Spain).
+* Baccalaureate in Science (2014-2016) at IES Bahia de Babel (Alicante, Spain).
 
 Computer Skills
 ======
 * Great knowledge in:
+  + Linux (Bash).
   + Python
   + Matlab
   + C/C++
   + Latex
   + Excel
   + Git/GitHub.
+
 * Good knowledge in:
   + JavaScript (p5.js)
   + Java (Processing)
   + Godot
   + Photoshop (Gimp)
-  + Linux (Bash).
+ 
 * Occasionally used:
   + Arduino IDE
   + Mathematica
