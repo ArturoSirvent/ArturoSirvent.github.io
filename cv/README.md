@@ -1,1 +1,1 @@
-Mi curriculum a 5 nov 2020
+Resume at 8 august 2021.
