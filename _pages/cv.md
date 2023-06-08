@@ -7,7 +7,7 @@ author_profile: true
 # (outdated)
 
 
-My Resume can be downloaded <a href="/cv/English_resume_CV_13_sept.pdf" download>here</a>.
+My Resume can be downloaded <a href="/cv/CV_Arturo_junio2023_noFOTO.pdf" download>here</a>.
 
 
 {% include base_path %}
