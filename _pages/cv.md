@@ -4,15 +4,12 @@ permalink: /cv/
 author_profile: true
 ---
 
-# (outdated)
+My Resume (not outdated) can be downloaded <a href="/cv/CV_Arturo_junio2023_noFOTO.pdf" download>here</a>.
 
 
-My Resume can be downloaded <a href="/cv/CV_Arturo_junio2023_noFOTO.pdf" download>here</a>.
+{% include base_path %} (outdated)
 
-
-{% include base_path %}
-
-Education
+Education 
 ======
 * Master in Data Science at University of Valencia. (2021-now)
 * Degree in Physics (2016 - 2021) in University of Granada (Spain).
