@@ -6,8 +6,10 @@ author_profile: true
 
 My Resume (not outdated) can be downloaded <a href="/cv/CV_Arturo_junio2023_noFOTO.pdf" download>here</a>.
 
+{% include base_path %} 
 
-{% include base_path %} (outdated)
+# (outdated) 
+
 
 Education 
 ======
