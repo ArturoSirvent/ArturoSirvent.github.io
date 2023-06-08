@@ -4,6 +4,9 @@ permalink: /cv/
 author_profile: true
 ---
 
+# (outdated)
+
+
 My Resume can be downloaded <a href="/cv/English_resume_CV_13_sept.pdf" download>here</a>.
 
 
