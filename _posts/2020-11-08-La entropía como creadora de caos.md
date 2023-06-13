@@ -1,5 +1,5 @@
 ---
-title: "La entropia como creadora de caos"
+title: "La entropia como creadora de orden"
 date: 25/05/2020
 tags: [Entropía, orden, optimizacion,desorden,física estadística]
 excerpt: "La verdadera concepción de la entropía"
@@ -11,7 +11,7 @@ mathjax: "true"
 
 **25/05/2020**
 
-**La entropia como creadora de caos**  
+**La entropia como creadora de orden**  
 **Seminario optativo física estadística**  
 **Universidad de Granada**
 
