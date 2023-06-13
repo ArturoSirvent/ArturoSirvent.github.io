@@ -1,3 +1,17 @@
+---
+title: "Rincon de las curiosidades (mayo 2023)"
+date: 13/06/2023
+tags: [data]
+excerpt: "El funcionamiento de shazam"
+mathjax: "true"
+---
+
+
+*Arturo Sirvent Fresneda*
+
+**13/06/2023**
+**Rincon de las curiosidades (mayo 2023)**
+-----
 Este mes en el rincón de las curiosidades, veremos cómo una buena extracción de características y una organización inteligente de la base de datos pueden llegar a venderse por **400 millones de dólares**. Este es el caso del algoritmo de Shazam, la famosa aplicación para identificación de canciones.  
 Si no la has usado nunca, el funcionamiento es muy sencillo: grabas con el móvil 5~15 segundos de una canción, y el software te indica de qué canción se trata.  
 Para entender el reto que supone **solo** la parte de encontrar una canción en la base de datos, pongámoslo con números. Si quisiéramos encontrar una grabación de 10 segundos (a 44.1kHz) en una base de datos de 1 millón de canciones (~ 3 minutos/canción), haciendo la comparación por fuerza bruta tardaríamos un promedio de ¡¡327 años!!  
