@@ -6,11 +6,8 @@ excerpt: "El funcionamiento de shazam"
 mathjax: "true"
 ---
 
-
 *Arturo Sirvent Fresneda*
 
-**13/06/2023**
-**Rincon de las curiosidades (mayo 2023)**
 -----
 Este mes en el rincón de las curiosidades, veremos cómo una buena extracción de características y una organización inteligente de la base de datos pueden llegar a venderse por **400 millones de dólares**. Este es el caso del algoritmo de Shazam, la famosa aplicación para identificación de canciones.  
 Si no la has usado nunca, el funcionamiento es muy sencillo: grabas con el móvil 5\~15 segundos de una canción, y el software te indica de qué canción se trata.  
@@ -18,11 +15,11 @@ Para entender el reto que supone **solo** la parte de encontrar una canción en 
   
 Como queremos que sea breve y simple, voy a exponer una analogía, sin embargo aquí se puede encontrar el paper original.  
 Supongamos que queremos encontrar un recorte de una imagen mucho más compleja (esto sería análogo a nuestra búsqueda de los 10 segundos en la base de datos):  
-![image](/images/shazam/escena_Wally_sleepydays2.jpg) 
+![image](/images/shazam/escena_Wally_sleepydays2.jpg)   
 Una buena forma de proceder sería simplificar la búsqueda mediante **índices**. Estos índices los calcularemos usando una extracción de características de cada recorte de imágenes. Para este ejemplo hemos escogido como característica, el número de elementos con tono amarillo:  
-![image](/images/shazam/escena_Wally_sleepydays_amarillo2_2.png)
+![image](/images/shazam/escena_Wally_sleepydays_amarillo2_2.png)   
 Esto logrará una subdivisión que simplificará mucho futuras búsquedas. De modo que cuando tengamos que identificar un nuevo segmento, podremos ir directamente a buscar al grupo con el mismo número de zonas amarillentas.  
-![image](/images/shazam/Pasted image 20230526124031.png) 
+![image](/images/shazam/Pasted_image_20230526124031.png)    
   
 En este rincón hemos aprendido sobre el concepto de indexación en bases de datos y la extracción de características para ello.  
 En concreto, la extracción de características que hace el algortimos de Shazam es una selección local (sobre el espectrograma) de las frecuencias predominantes en las grabaciones. Dichas frecuencias predominantes se agrupan en pares, y los índices de búsqueda se calculan aplicando una función hash a la tríada de valores: frecuencia 1, frecuencia 2 y la separación temporal entre ellas. Esto logra que las comparaciones sean muy efectivas y rápidas para la identificación.  
