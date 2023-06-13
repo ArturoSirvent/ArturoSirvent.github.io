@@ -4,6 +4,7 @@ date: 13/06/2023
 tags: [data]
 excerpt: "El funcionamiento de shazam"
 mathjax: "true"
+classes: wide
 ---
 
 *Arturo Sirvent Fresneda*
