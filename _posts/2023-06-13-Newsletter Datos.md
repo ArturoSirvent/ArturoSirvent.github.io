@@ -4,9 +4,12 @@ date: 13/06/2023
 tags: [data]
 excerpt: "El funcionamiento de shazam"
 mathjax: "true"
+
 ---
 
 *Arturo Sirvent Fresneda*
+
+Publicado originalmente en la [Newsletter: El rincón de los Datos](https://www.linkedin.com/pulse/el-rinc%2525C3%2525B3n-de-los-datos-datamecum%3FtrackingId=rF52m%252BrkTZWnRwcPm0g8gw%253D%253D/?trackingId=rF52m%2BrkTZWnRwcPm0g8gw%3D%3D)
 
 -----
 Este mes en el rincón de las curiosidades, veremos cómo una buena extracción de características y una organización inteligente de la base de datos pueden llegar a venderse por **400 millones de dólares**. Este es el caso del algoritmo de Shazam, la famosa aplicación para identificación de canciones.  
