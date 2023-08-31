@@ -438,8 +438,11 @@ Aquí vemos otra simulación:
 
 ![image](/images/entropia/a30.png) ![image](/images/entropia/a31.png)
 
-De nuevo podemos ver como se produce este efecto de acumulacion en
-grupos.
+De nuevo podemos ver como se produce este efecto de acumulación en
+grupos. Si representamos la cantidad de cada uno de los colores según el  
+tiempo de evolución del sistema, vemos lo siguiente.    
+![image](/images/entropia/a32.png)   
+Y la evolución del sistema se puede observar en el siguiente [link](https://editor.p5js.org/ArturoSirvent/full/pLsFNg-3B).
 
 ### Recursos:
 
