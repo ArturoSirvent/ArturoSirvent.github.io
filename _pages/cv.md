@@ -4,26 +4,179 @@ permalink: /cv/
 author_profile: true
 ---
 
-My Resume (updated - june 2023) can be downloaded <a href="/cv/CV_TEMPLATE_MODIFICADO_junio2023.pdf" download>here</a>.
+# Experience   
+---  
+## **Artificial Intelligence Engineer**
 
-{% include base_path %} 
+Sept. 2023 -- Ongoing
 
-# (outdated) 
+Valencia (Spain)
 
+Computer Vision and Advance Data Analysis for Industry 4.0 solutions.
 
-Education 
-======
-* Master in Data Science at University of Valencia. (2021-now)
-* Degree in Physics (2016 - 2021) in University of Granada (Spain).
-  + Erasmus+ in Wuppertal (Germany) (2018-2019).
-* Course: Godot Game Engine (2018).
-* Course: C++ advanced programming methods (2018).
-* Course: Scientific programming in Python (2017).
-* Course: Energy and Matter (2017).
-* Baccalaureate in Science (2014-2016) at IES Bahia de Babel (Alicante, Spain).
+*   Pytorch
+*   Lightning AI
+*   Linux - Bash
+*   SSH
+*   Deep Learning
+*   TensorFlow
+*   WandB
+*   OpenCV
+*   Nuxt.js
+*   Python
+*   Machine Learning
+*   Anomaly Detection
+*   MLOps
 
-Computer Skills
-======
+## **Advanced Technician in AI Research**
+
+April 2023 -- Ongoing
+
+Valencia (Spain)
+
+Research on Finite Element Method acceleration using PINNs and Physics-based Deep Learning approaches.
+
+*   Pytorch
+*   Lightning AI
+*   HuggingFace API
+*   Linux - Bash
+*   SSH
+*   TensorFlow
+*   Slack
+*   Python
+*   Deep Learning
+*   Machine Learning
+*   MLFlow - Experiment Tracking
+
+## **Data Scientist | Programmer**
+
+Sept. 2022 -- Sept. 2023
+
+Valencia (Spain)
+
+Working as Data Scientist at the Valencia SmartCity project for the Valencia Council.
+
+*   MLOps
+*   Machine Learning
+*   Databases - SQL - Postgres
+*   ETL Tools
+*   CD/CI
+*   Agile - Scrum
+*   Linux - Bash Scripting
+*   Docker
+*   API REST
+*   SSH
+*   Python
+*   Business Intelligence
+*   Jenkins
+*   HTML - CSS - JavaScript
+
+## **Research Assistant (Collaboration Grant)**
+
+Oct. 2021 -- Jul. 2022
+
+Valencia (Spain)
+
+Development of Deep Learning techniques for information extraction from satellite (Sentinel - ESA Copernicus program) earth images.
+
+*   Pytorch
+*   Python Automation
+*   Computer Vision
+*   GIS
+*   Cloud Segmentation Models
+*   Python
+*   TensorFlow
+*   SSH
+*   TensorBoard - Experiment Tracking
+
+## **Summer Internship at University of Alicante**
+
+Jul. 2022 -- Aug. 2022
+
+Alicante (Spain)
+
+The goal was to learn about quantum chemistry calculation programs and their implementation in the lab's computers.
+
+*   ORCA
+*   Bash Automation
+*   DSH-SCP-Cluster SSH
+*   Linux
+*   SAMBA
+*   Molden
+*   Avogadro
+
+## **Private teacher (mathematics, physics, chemistry)**
+
+Jan. 2017 -- Jul. 2021
+
+Granada (Spain)
+
+# Oficial Education
+---   
+
+## **M.Sc. in Data Science**
+
+Sept. 2021 -- April 2023
+
+My Master's Thesis (TFM) was about the implementation of Transformers architecture for the problem of non-supervised anomaly detection on multivariate time series (sequential data).
+
+## **B.S. in Physics**
+
+Sept. 2016 -- June 2021
+
+Erasmus+ at the University of Wüppertal (Germany), with many elective courses on computational science and data analysis.
+
+My Bachelor's Degree Final Project (TFG) entailed developing an intelligent classification system (using ConvNets) for the Cherenkov Telescope Array (CTA).
+
+# Courses
+---
+
+### **Workshop in Generative Music AI**
+
+Universitat Pompeu Fabra
+
+Issued Dec 2023
+
+Skills: Generative Art · Generative Neural Networks
+
+### **AWS Cloud Computing (Curso Solutions Architect Associate)**
+
+Universitat Politècnica de València (UPV)
+
+Issued Nov 2023
+
+Credential ID FCPZVSK1B53
+
+Skills: Amazon Web Services (AWS) · Cloud Computing · Solution Architecture
+
+### **Deep Learning for Earth Science**
+
+2022
+
+### **Introduction to Data Science**
+
+2021
+
+### **Advance programming with C++**
+
+2018
+
+### **Scientific computing with Python**
+2017
+
+### **Divulgation in Physics (Energy and Matter)**
+2017
+  
+# Social Skills
+---   
+
+* Facility in personal communication and educational skills (personal professor experience).
+* Good performance under pressure.
+* Considerable tolerance to job excess.
+* Special ability for self learning and new topics research.
+
+# Computer Skills
+---  
 * Great knowledge in:
   + Linux (Bash).
   + Python
@@ -49,15 +202,8 @@ Computer Skills
   + Canva
   + R
   
-Social Skills
-======
-* Facility in personal communication and educational skills (personal professor experience).
-* Good performance under pressure.
-* Considerable tolerance to job excess.
-* Special ability for self learning and new topics research.
-  
-Other Skills
-======
+# Other Skills
+---   
 Interests in computer architecture and electronics. 
 Experience in projects with:
 * Arduino
@@ -65,27 +211,17 @@ Experience in projects with:
 * Soldering.
 * Virtual Machines.
 
-Languages
-======
+# Languages
+---   
 * Spanish. (Natively).
 * Valencian. (Natively)
 * English. (B2)
 * German. (B1 in progess)
 
-Interest
-======
+# Interest
+---  
 * Data Science 
 * Mathematics
 * Physics
 * Complex Systems
 * Deep Learning
-
-
-<!--
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-%
--->
