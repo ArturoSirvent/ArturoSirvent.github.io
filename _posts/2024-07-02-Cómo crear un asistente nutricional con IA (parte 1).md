@@ -7,17 +7,17 @@ mathjax: "true"
 
 ---  
 
-Este post es el primero de varios en los que revisaremos la implementación de un asistente conversacional para realizar tareas que dependan de información real y actualizada procedente de una base de datos externa. 
-En concreto, os mostraré las bases teóricas básicas, con las que creé un asistente nutricional. Este asistente nos ayuda a llevar un recuento aproximado de nuestras macros, unicamente mediante consultas en lenguaje natural, y pudiendo hacer indicaciones poco precisas como "un puñado", "un tazón", etc.
+Este post es el primero de varios en los que revisaremos la **implementación de un asistente conversacional** para realizar tareas que dependan de información real y actualizada procedente de una base de datos externa. 
+En concreto, os mostraré las bases teóricas básicas, con las que creé un **asistente nutricional**. Este asistente nos ayuda a llevar un recuento aproximado de nuestras macros, unicamente **mediante intrucciones en lenguaje natural**, y pudiendo hacer indicaciones poco precisas como "un puñado", "un tazón", etc.
 
 Ejemplo del resultado final:   
 *gif*
 
 En esta primera aproximación al problema, revisaremos como montar la estructura base del proyecto, para después darle progresivamente la funcionalidad completa. Estás serán las partes:  
-1. Estructura y stack tecnológico.   👈 Estás aquí.
+1. Estructura y stack tecnológico.   👈 **Estás aquí**
 2. Creación de agentes con langchain, RAG y self-querying.  
 3. Integración con LangGraph y LangGraph Cloud.  
-4. Resultado final. Mejoras  
+4. Revisión resultado final.  
 
 Comencemos, revisando el primer punto de la lista, la "big picture", el flujo de funcionamiento:  
 
