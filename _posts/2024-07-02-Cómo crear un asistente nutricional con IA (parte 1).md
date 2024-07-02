@@ -1,5 +1,5 @@
 ---
-title: "Cómo crear un asistente nutricional con IA (parte 1)"
+title: "Cómo crear un asistente nutricional con IA (parte 1, estructura)"
 date: 02/07/2024
 tags: [data, blog,LLMs]
 excerpt: "Asistente nutricional con IA"
